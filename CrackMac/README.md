@@ -24,3 +24,8 @@ crackmac -i wlan0 -r
 Set specific MAC:
 crackmac -i wlan0 -m 00:16:3e:50:02:82 or
 crackmac -i eth0 -m 00:16:3e:50:02:82
+
+
+
+![alt text](image-1.png)
+![alt text](image-2.png)
